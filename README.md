@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/kdrsrsln/kdrsrsln/master/wave.gif" width="30px">
-My name is Kadir, and I'm a software developer from Turkey. While working as IT Manager, also focusing on software projects. In my github accoutn, you will find my coding style and non-commercial projects.
+My name is Kadir, and I'm a software developer from Turkey. While working as IT Manager, also focusing on software projects. In my github account, you will find my coding style and non-commercial projects.
 <!--
 **kdrsrsln/kdrsrsln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
