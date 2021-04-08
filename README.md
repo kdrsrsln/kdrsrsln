@@ -34,13 +34,19 @@ Here are some ideas to get you started:
 <img alt="visual studio" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-2019.png" />
 </code>](https://visualstudio.com/)
 [<code>
-<img alt="visual studio" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/resharper-icon.png" />
+<img alt="Jetbrains Resharper" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/resharper-icon.png" />
 </code>](https://www.jetbrains.com/resharper/)
+[<code>
+<img alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+</code>](https://angular.io/cli)
+[<code>
+<img alt="NodeJS" width="26px" src="https://img.icons8.com/windows/32/000000/node-js.png" />
+</code>](https://nodejs.org/en/)
 [<code>
 <img alt="MsSql" width="26px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
 </code>](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [<code>
-<img alt="MySql" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<img alt="PostGreSql" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 </code>](https://www.postgresql.org/)
 [<code>
 <img alt="MySql" width="26px" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" />
